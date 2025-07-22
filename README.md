@@ -6,7 +6,7 @@ $cat moreaboutme.txt
 **https://beacons.ai/byteafterlife**<br>
 $cat likes.txt  
 😄  
-**Linux (Mint and Ubuntu), Minecraft**  
+**Linux, Games, Tech in general, Swimming, Trampolines**  
 $cat dislikes.txt  
 🤮  
 **People who put milk before cereal _(jk, you do you ;D)_**  
