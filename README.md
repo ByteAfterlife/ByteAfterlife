@@ -9,7 +9,6 @@ $cat likes.txt
 **Linux, Games, Tech in general, Swimming, Trampolines**  
 $cat dislikes.txt  
 🤮  
-**People who put milk before cereal _(jk, you do you ;D)_**  
 **Hamburger meat (yes, I hate hamburgers)**  
 **Hiccups (who doesn't hate them)**  
 $cat since.txt  
