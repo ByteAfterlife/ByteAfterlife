@@ -3,7 +3,6 @@
 $cat moreaboutme.txt  
 **https://en.pronouns.page/@byteafterlife**<br>
 **https://byteafterlife.vercel.app**<br>
-**https://beacons.ai/byteafterlife**<br>
 $cat likes.txt  
 😄  
 **Linux, Games, Tech in general, Swimming, Trampolines**  
