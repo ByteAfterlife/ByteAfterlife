@@ -17,5 +17,5 @@ $cat since.txt
 $cat social.txt<br>
 <a href="https://matrix.to/#/@imbyte:tchncs.de">Matrix</a><br>
 (all my other socials aren't public)
-[![Certified Thinker](https://meatproxy.me/badge/c/ekdzj.svg)](https://meatproxy.me/c/ekdzj)
+<br>[![Certified Thinker](https://meatproxy.me/badge/c/ekdzj.svg)](https://meatproxy.me/c/ekdzj)
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thats%20all&textBg=false&strokeWidth=0&desc=You%20actually%20wasted%20time%20reading%20this%20small%20text?&fontAlign=50&fontAlignY=48&descSize=1&section=footer&reversal=false&descAlignY=68">
